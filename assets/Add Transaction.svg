@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-Add_Transaction">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Add_Transaction" data-name="Add Transaction" clip-path="url(#clip-Add_Transaction)">
+    <rect width="375" height="812" fill="#fff"/>
+    <rect id="Rectangle_1469" data-name="Rectangle 1469" width="375" height="45" fill="#e4e4e4"/>
+    <rect id="Rectangle_122" data-name="Rectangle 122" width="375" height="158" rx="35" fill="#5c5181"/>
+    <path id="Rectangle_1468" data-name="Rectangle 1468" d="M35,0H340a35,35,0,0,1,35,35v74a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V35A35,35,0,0,1,35,0Z" transform="translate(0 50)" fill="#fff"/>
+  </g>
+</svg>

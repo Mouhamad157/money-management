@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-login">
+        <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="login" clip-path="url(#clip-login)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="Navigation_Bar" data-name="Navigation Bar">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="375" height="20" fill="none"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="375" height="48" transform="translate(0 20)" fill="none"/>
+    </g>
+    <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(279.354 -74)">
+      <path id="Path_1" data-name="Path 1" d="M2985.6-530h-95.473s-54.556,69.9,6.819,85.244-6.819,71.6,34.1,102.293S2985.6-322,2985.6-322" transform="translate(-2867.786 530)" fill="#d8d8d8"/>
+    </g>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(296 -84)">
+      <path id="Path_2" data-name="Path 2" d="M2985.25-530h-95.186s-54.392,69.689,6.8,84.987-6.8,71.389,34,101.984,54.392,20.4,54.392,20.4" transform="translate(-2867.786 530)" fill="#5c5181" stroke="#d2d1d9" stroke-width="1"/>
+    </g>
+    <path id="Path_644" data-name="Path 644" d="M2985.6-530h-95.473s-54.556,69.9,6.819,85.244-6.819,71.6,34.1,102.293S2985.6-322,2985.6-322" transform="translate(2972.153 972.235) rotate(-167)" fill="#d8d8d8"/>
+    <path id="Path_643" data-name="Path 643" d="M2985.25-530h-95.186s-54.392,69.689,6.8,84.987-6.8,71.389,34,101.984,54.392,20.4,54.392,20.4" transform="translate(2957.458 979.564) rotate(-167)" fill="#5c5181" stroke="#d2d1d9" stroke-width="1"/>
+  </g>
+</svg>
